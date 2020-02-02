@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012693845851",
+    "firebase_url": "https://moviequotesauth-94d3c.firebaseio.com",
+    "project_id": "moviequotesauth-94d3c",
+    "storage_bucket": "moviequotesauth-94d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012693845851:android:3386caf971bc2b5053bc7e",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.moviequotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012693845851-lj3s8hjtobljlnatm0kbusujqk9kc156.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rosehulman.moviequotes",
+            "certificate_hash": "3f04b5e0484a62166ddf316ee6043053f97b5ea3"
+          }
+        },
+        {
+          "client_id": "1012693845851-15ge9n5gs6v6t4robcmuurf7daq744jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUo1a2DI5Z-CHm3rP-Iqfp_sUEehf0a10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012693845851-15ge9n5gs6v6t4robcmuurf7daq744jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
